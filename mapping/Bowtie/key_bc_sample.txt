@@ -1,0 +1,13 @@
+Index2	n
+NotI	2
+NotI-NC	3
+NotI-SRSF5	4
+NotI-CNBP-2	31
+NotI-CNBP-3	32
+NotI-CNBP-4	33
+NotI-CNBP-5	34
+NotI-CNBP-6	35
+NotI-CNBP-7	36
+NotI-NCx2	37
+NotI-NCx3	38
+keep the last line	
